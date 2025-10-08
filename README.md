@@ -1262,8 +1262,7 @@ Read more:
 
 ## Articles
 
-- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together)
-- [Hexagonal Architecture](https://www.qwan.eu/2020/08/20/hexagonal-architecture.html)
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together)- [Hexagonal Architecture](https://www.qwan.eu/2020/08/20/hexagonal-architecture.html)
 - [Hexagonal (Ports and Adapters) Architecture](https://medium.com/idealo-tech-blog/hexagonal-ports-adapters-architecture-e3617bcf00a0)
 - [Clean architecture series](https://medium.com/@pereiren/clean-architecture-series-part-1-f34ef6b04b62)
 - [Clean architecture for the rest of us](https://pusher.com/tutorials/clean-architecture-introduction)
@@ -1296,6 +1295,12 @@ Read more:
 - ["Secure by Design"](https://www.manning.com/books/secure-by-design) by Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano
 - ["Implementing Domain-Driven Design"](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577) by Vaughn Vernon
 - ["Clean Architecture: A Craftsman's Guide to Software Structure and Design"](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?dchild=1&keywords=clean+architecture&qid=1605343702&s=books&sr=1-1) by Robert Martin
+
 Line from branch2 - commit 1
 Line from branch2 - commit 2
 Line from branch2 - commit 3
+
+Line from branch1 - commit 1
+Line from branch1 - commit 2
+Line from branch1 - commit 3
+
